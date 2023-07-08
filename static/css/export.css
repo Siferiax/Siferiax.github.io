@@ -6,3 +6,7 @@ tbody>tr>*:nth-last-child(3)~*{ width:33.3%}
 tbody>tr>*:nth-last-child(4)~*{ width:25%}
 tbody>tr>*:nth-last-child(5)~*{ width:20%}
 tbody>tr>*:nth-last-child(6)~*{ width:16.6%}
+
+hr {
+  margin: 20px 0px;
+}
