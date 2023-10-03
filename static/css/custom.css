@@ -11,6 +11,20 @@ hr {
   margin: 20px 0px;
 }
 
+.tag {
+  padding: 0px 5px 0px 5px;
+  border-radius: 7px;
+  background-color: var(--ls-active-secondary-color);
+  color: var(--ls-primary-background-color) !important;
+}.content
+
+/*a.tag.mr-1 {
+  padding: 0px 5px 0px 5px;
+  border-radius: 7px;
+  color: #ffffff !important;
+  background-color: #bb6550;
+}*/
+
 /*General background:
     --theme: #191010;*/
 
